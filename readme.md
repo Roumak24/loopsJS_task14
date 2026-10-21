@@ -1,0 +1,1 @@
+This task is on learning loops in javascript.
